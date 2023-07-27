@@ -1,7 +1,16 @@
 c:\users\andyd\documents\visual studio 2010\Projects\square root\square root\bin\Debug\square root.exe
-c:\users\andyd\documents\visual studio 2010\Projects\square root\square root\bin\Debug\square root.pdb
-c:\users\andyd\documents\visual studio 2010\Projects\square root\square root\obj\x86\Debug\square_root.Form1.resources
-c:\users\andyd\documents\visual studio 2010\Projects\square root\square root\obj\x86\Debug\square_root.Properties.Resources.resources
-c:\users\andyd\documents\visual studio 2010\Projects\square root\square root\obj\x86\Debug\square root.csproj.GenerateResource.Cache
-c:\users\andyd\documents\visual studio 2010\Projects\square root\square root\obj\x86\Debug\square root.exe
-c:\users\andyd\documents\visual studio 2010\Projects\square root\square root\obj\x86\Debug\square root.pdb
+C:\Users\adansby\Documents\Visual Studio 2012\Projects\square root\square root\obj\x86\Debug\square root.exe
+C:\Users\adansby\Documents\Visual Studio 2012\Projects\square root\square root\obj\x86\Debug\square root.pdb
+C:\Users\adansby\Documents\Visual Studio 2012\Projects\square root\square root\bin\Debug\square root.exe
+C:\Users\adansby\Documents\Visual Studio 2012\Projects\square root\square root\bin\Debug\square root.pdb
+C:\Users\adansby\Documents\Visual Studio 2012\Projects\square root\square root\obj\x86\Debug\square root.csprojResolveAssemblyReference.cache
+C:\Users\adansby\Documents\Visual Studio 2012\Projects\square root\square root\obj\x86\Debug\square_root.Form1.resources
+C:\Users\adansby\Documents\Visual Studio 2012\Projects\square root\square root\obj\x86\Debug\square_root.Properties.Resources.resources
+C:\Users\adansby\Documents\Visual Studio 2012\Projects\square root\square root\obj\x86\Debug\square root.csproj.GenerateResource.Cache
+C:\Users\andyd\Documents\Visual Studio 2010\Projects\square root\square root\obj\x86\Debug\square_root.Form1.resources
+C:\Users\andyd\Documents\Visual Studio 2010\Projects\square root\square root\obj\x86\Debug\square_root.Properties.Resources.resources
+C:\Users\andyd\Documents\Visual Studio 2010\Projects\square root\square root\obj\x86\Debug\square root.csproj.GenerateResource.Cache
+C:\Users\andyd\Documents\Visual Studio 2010\Projects\square root\square root\obj\x86\Debug\square root.exe
+C:\Users\andyd\Documents\Visual Studio 2010\Projects\square root\square root\obj\x86\Debug\square root.pdb
+C:\Users\andyd\documents\visual studio 2010\Projects\square root\square root\bin\Debug\square root.pdb
+C:\Users\andyd\documents\visual studio 2010\Projects\square root\square root\obj\x86\Debug\square root.csprojResolveAssemblyReference.cache
